@@ -17,7 +17,7 @@ US Government/FBI defines and classifies terrorism as below:
 
 Violent, criminal acts committed by individuals and/or groups who are inspired by, or associated with , designated foreign terrorist organizations or nations(state-sponsored). We have used Matplotlib and Seaborn libraries to represent our insights meaningfully and draw conclusions.
 
-Through this project we aim to analyse the following:
+# Through this project we aim to analyse the following:
 
 What the hot zones of terrorism? What causes the strained relationship between countries like Pakistan and Afghanistan? How dreadful were the Boko Harams in Nigeria? How safe id Mumbai after 26/11/2008? Study the patterns of Naxalism in the Indian states. What all security issues and insights you can derive by EDA?
 
