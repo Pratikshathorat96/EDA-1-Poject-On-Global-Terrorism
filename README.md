@@ -1,17 +1,20 @@
 ![image](https://github.com/Pratikshathorat96/EDA-1-Poject-On-Global-Terrorism/assets/120496034/b13a4fa4-8151-46f7-a5f5-283affa943e5)
 
 # EDA-1-Poject-On-Global-Terrorism
+
 To the promotion and protection of human rights As a security/defence analyst, try to find out the hot zone of terrorism and finding weapons types used by terrorist.Also finding most active terrorist groups. What all security issues and insights you can derive by EDA?
 Why I choose this project
 I Choose this project to Examine a variety of theoretical and empirical materials needed for analysing pressing questions, relating to war, security and peace.To gain a solid understanding of contemporary security challenges, from environmental degradation to gender based insecurity, and the ability to analyse these issues surrounding security and terrorism.
 
-What is Terrorism
+# What is Terrorism
+
 The term "Terrorism" is derived from Latin word "Terror", whic rerfers to "great fear". The word "Terrorism" was first used during French Revolution in the yera 1795. The term was used to refer to intentional or planned use of brutality and violence to create an environment of fright, panic, distress and fear in general public with the sole purpose of establishing a certain political or social narrative. In todays world terrorism is used by different parties in different perspective under different circumstances. Though UN Security Council recognises Terrorism as a threat to pease and security, but fails to define terrorism in any of it resolutions and urges member countries to define Terrorism in their respective national law. Acoordingly different countries define Terrorism & Terrorist differently in their Laws.
 
 How Do Countries Define Terrorism?
 US Government/FBI defines and classifies terrorism as below:
 
-International Terrorism:
+# International Terrorism:
+
 Violent, criminal acts committed by individuals and/or groups who are inspired by, or associated with , designated foreign terrorist organizations or nations(state-sponsored). We have used Matplotlib and Seaborn libraries to represent our insights meaningfully and draw conclusions.
 
 Through this project we aim to analyse the following:
@@ -51,3 +54,23 @@ The columns weaptype1 , weaptype2 ,weaptype3 , weapsubtype1 , weaptype2 , weapty
 The columns ransom,ransompaid contain the randsome amount demand(if any) and how much the authorith have paid(if any).
 
 We as a team believe that meaningful dialogues,inclusive state policies,addressing problems at the root cause can protect us all from the cowardly and ghastly practice of terror mongering called TERRORISM. We as future data scientists and analysts have tried to understand the underlying causes and impacts of these unhumanly acts
+
+# Conclusion 
+
+1. Attacks has increased but number of people killed manier times as attack happened.
+2. Iraq has the most attacks.
+3. The Middle East and North Africa Regions has most taregeted.
+4. Maximum number of attacks are from Bombing/Explosions.
+5. There are maximum number of attacks in Private citizens and Property.
+6. Taliban and ISIL has a most active organisation.
+7. It is evident form the trend analysis that since 1971 there has been significant increase in terror attacks globally. Terrorist Groups like ISIL, taliban, Al-Shabaab , BOko Haram, NPA, assassination, etc. However, in recent times there has been slight decrease in terrorist attacks.
+8. We need to undeerstand that every human live is precious and we should take all efforts to curb terrorism and sponsors of terrorism. Development of both socio econimic and educational are the only permanent solution to this problem.
+9. We should make common people aware about the terrorism.
+
+# Solution to Business Objective
+
+1. The Middle East and North Africa regions are the most targeted so the Govt. of that region should increase their defence and investigation departments and also should ban bombing/explosion raw material.
+2. Iraq country is the most targeted so the Govt. of that country should increase their defence and investigation departments and also should ban bombing/explosion raw material.
+3. Make people aware about terrorism.
+4. Anti terrorism organizations and defence department should keep an eye on Taliban and ISIL which are most active organisations.
+5. World should make a strong law act and actions against the Terrorism,
